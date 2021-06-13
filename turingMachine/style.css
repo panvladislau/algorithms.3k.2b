@@ -1,0 +1,46 @@
+form {
+    width: 40%;
+    border: 3px black solid;
+    background-color: rgb(64, 103, 187);
+    margin: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#easy-rools-start {
+    background-color: rgb(4, 253, 4);
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+}
+
+#medium-rools-start {
+    background-color: rgb(0, 255, 0);
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+}
+
+#hard-rools-start {
+    background-color: rgb(0, 255, 76);
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+}
+
+#extra-rools-start {
+    background-color: rgb(0, 255, 0);
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+}
+
+#output {
+    margin: 40px;
+}
